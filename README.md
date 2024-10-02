@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Cyberene](https://github.com/Cyberene/Club-website)
 
-- 🌱 I’m currently learning **Next.js, Python**
+- 🌱 I’m currently learning **Next.js, Python, Javascript**
 
 - 🤝 I’m looking for help with [Star-World](https://github.com/Cyberene/Club-website)
 
