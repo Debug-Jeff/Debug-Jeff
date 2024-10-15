@@ -47,7 +47,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Debug-Jeff&show_icons=true&locale=en&theme=dark" alt="ramo-dev" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Debug-Jeff&show_icons=true&locale=en&theme=dark" alt="Debug-Jeff" />
   <br></br>
   <img align="center" src="https://streak-stats.demolab.com?user=Debug-Jeff&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats">
 </td>
@@ -93,15 +93,12 @@
   </ul>
 </div>
 
-
+<!--Badges-->
 <p align="center">
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/FV2JTM9X?sharingId=18806A7097F48D48" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/create-git-project.svg" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/4L5W8PGK?sharingId=18806A7097F48D48" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/UYXEMA83?sharingId=18806A7097F48D48" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/UFCUQXB3?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github-using-visual-studio-code.svg" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/WAHWPGGN?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Microsoft" height="50" width="50" /></a>
-</p>
-
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/FV2JTM9X?sharingId=18806A7097F48D48" target="blank" rel="noopener noreferrer"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/create-git-project.svg" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/4L5W8PGK?sharingId=18806A7097F48D48" target="blank" rel="noopener noreferrer"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/UYXEMA83?sharingId=18806A7097F48D48" target="blank" rel="noopener noreferrer"><img align="center" src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/N2ZHTXAF?sharingId=18806A7097F48D48" target="blank" rel="noopener noreferrer"><img align="center" src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" alt="Microsoft" height="50" width="50" /></a>
 
 
 <!-- Connect with me -->
