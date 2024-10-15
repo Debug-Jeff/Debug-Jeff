@@ -12,9 +12,8 @@
 
 <!--- gif -->
 <div align="center">
-  <img  src="./22G.gif"
-       alt="snake" /></a>
-</div>
+  <iframe src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr">via GIPHY</a></p>
+      </div>
 
 
 <!--h2 without bottom border-->
@@ -49,12 +48,12 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Debug-Jeff&show_icons=true&locale=en&theme=dark" alt="ramo-dev" />
   <br></br>
-  <img align="center" src="https://streak-stats.demolab.com?user=ramodev&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=Debug-Jeff&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats">
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramo-dev&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img  align="center" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debug-Jeff&show_icons=true&locale=en&layout=compact&theme=dark"/>
   
   </td>
 </tr>
@@ -64,7 +63,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ramo-dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Debug-Jeff&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -83,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,css,discord,docker,dynamodb,express,figma,firebase,github,html,django,vue,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,flask,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,css,discord,docker,figma,firebase,github,html,django,vue,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -95,14 +94,14 @@
 
 
 <p align="center">
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/9NC3HSQU?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/create-git-project.svg" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/DGKDZLEJ?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" alt="Microsoft" height="50" width="50" /></a>
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/3X9347MH?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/FV2JTM9X?sharingId=18806A7097F48D48" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/create-git-project.svg" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/4L5W8PGK?sharingId=18806A7097F48D48" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" alt="Microsoft" height="50" width="50" /></a>
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/UYXEMA83?sharingId=18806A7097F48D48" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" alt="Microsoft" height="50" width="50" /></a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/UFCUQXB3?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github-using-visual-studio-code.svg" alt="Microsoft" height="50" width="50" /></a>
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/WAHWPGGN?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Microsoft" height="50" width="50" /></a>
 </p>
 
-
+https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/FV2JTM9X?sharingId=18806A7097F48D48
 
 
 <!-- Connect with me -->
@@ -115,10 +114,10 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/annuar-ndungu-5a0690242" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/debug_jeff" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/dfw_ramo?igsh=bHBoc3k5YmM5YWFp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/dfw_ramo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="hhttps://www.linkedin.com/in/jeff-m-7a2123305/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/Debug_Jeff" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/_Simply_Jeff?igsh=bHBoc3k5YmM5YWFp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/1102554263781118044" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
@@ -126,7 +125,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=ramo-dev&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Debug-Jeff&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
   
 </div>
 
