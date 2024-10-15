@@ -12,8 +12,9 @@
 
 <!--- gif -->
 <div align="center">
-  <iframe src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr">via GIPHY</a></p>
-      </div>
+  <img src="https://media.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy.gif" width="480" height="322" />
+</div>
+
 
 
 <!--h2 without bottom border-->
@@ -101,7 +102,6 @@
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/AnnuarNdungu-5089/WAHWPGGN?sharingId=FC8B6448F5CB991F" target="blank"><img align="center" src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Microsoft" height="50" width="50" /></a>
 </p>
 
-https://learn.microsoft.com/api/achievements/share/en-us/Jeff-0109/FV2JTM9X?sharingId=18806A7097F48D48
 
 
 <!-- Connect with me -->
