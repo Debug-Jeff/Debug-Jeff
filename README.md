@@ -24,12 +24,12 @@
 </div>
 
 
-<!--Intro start-->
+<!--Intro start
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cyber security. <!--So,I'm learning ****-->
 
-- 📫 Feel free to reach me out **jmutugi00.0@gmail.com**
+<!--- 📫 Feel free to reach me out **jmutugi00.0@gmail.com**-->
 
 <!--Intro end-->
 
