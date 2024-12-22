@@ -76,11 +76,11 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,figma,html,vue,js,linux,mongodb,mysql,nextjs,nodejs,py,java,react,tailwind,ts,vscode&perline=14" />
   </a>
-</p>
+</p>-->
 
 <!--<div id="user-content-toc">
   <ul align="center">
