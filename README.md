@@ -112,7 +112,9 @@
   
 </p>
 
-
+<br>
+<img src="https://raw.githubusercontent.com/hades0413/hades0413/output/snake.svg" alt="Snake animation" />
+<br>
 <!--profile visit count-->
 <div align="center">
   
