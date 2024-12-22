@@ -114,13 +114,11 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/hades0413/hades0413/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/Debug-Jeff/Debug-Jeff/blob/output/github-snake.svg)
 
 <br>
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://komarev.com/ghpvc/?username=Debug-Jeff&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
 
   
 </div>
