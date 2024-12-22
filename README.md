@@ -114,7 +114,7 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/hades0413/hades0413/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/Debug-Jee/Debug-Jee/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Debug-Jeff/Debug-Jeff/blob/output/github-snake.svg)
 
 <br>
 <!--profile visit count-->
