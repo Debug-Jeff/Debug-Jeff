@@ -44,17 +44,20 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Debug-Jeff&show_icons=true&locale=en&theme=dark" alt="Debug-Jeff" />
-  <br></br>
-  <img align="center" src="https://streak-stats.demolab.com?user=Debug-Jeff&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats">
+</td>
+<br>
+<td width="50%" align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Debug-Jeff&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats" />
 </td>
 
+<tr border="none" align="center">
 <td width="50%" align="center">
+<img  align="center" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debug-Jeff&show_icons=true&locale=en&layout=compact&theme=dark"/>
+</tr>
 
-  <img  align="center" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debug-Jeff&show_icons=true&locale=en&layout=compact&theme=dark"/>
-  
-  </td>
+</td>
+
 </tr>
 </table>
 <!--- stats (end) -->
