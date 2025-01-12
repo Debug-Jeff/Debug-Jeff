@@ -26,21 +26,16 @@ ___
 
 <!--If any table doesn't show its might be an API issue-->
 <p align="center">
-<table align="center">
-    <tr border="none">
-    <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Debug-Jeff&show_icons=true&locale=en&theme=dark" alt="Debug-Jeff" />
-    </td>
-    <td width="50%" align="center">
+<div width="80%" align="center">
+    <img  align="center" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api?username=Debug-Jeff&show_icons=true&locale=en&theme=dark" alt="Debug-Jeff" />
+</div>
+    <!--<td width="50%" align="center">
         <img align="center" src="https://streak-stats.demolab.com?user=Debug-Jeff&theme=dark&exclude_days=Sun&stroke=EB545400)](https://git.io/streak-stats" />
-    </td>
-    <tr border="none" align="center">
-    <td width="50%" align="center">
-        <img  align="center" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debug-Jeff&show_icons=true&locale=en&layout=compact&theme=dark"/>
-    </td>
-    </tr>
-</table>
-
+    </td>-->
+<div width="80%" align="center">
+    <img  align="center" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debug-Jeff&show_icons=true&locale=en&layout=compact&theme=dark"/>
+</div>
+    
 <div align="center">
 
 </div>
