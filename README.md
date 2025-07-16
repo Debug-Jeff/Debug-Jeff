@@ -15,7 +15,7 @@
 
 <!-- Quote section -->
 <div align="center">
-  <h3>💻 "Debugging is like being the detective in a crime movie where you are also the murderer." 🔍</h3>
+  <h3>"Debugging is like being the detective in a crime movie where you are also the murderer." </h3>
 </div>
 
 <!-- Section divider -->
